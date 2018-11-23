@@ -1,4 +1,4 @@
-const SERVER_URL = 'https://www.jsonstore.io/df5d931f3d12b166bdd9acc7b21c5346be91e20f272bd41857a8b7edb0897e21'
+const SERVER_URL = 'https://www.jsonstore.io/0703d44e76125e87e478bab38abd1659300001d4295d45c428fbc9e65875ed4d'
 
 class TodoItem extends React.Component {
 	render() {
